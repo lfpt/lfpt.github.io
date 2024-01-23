@@ -9,8 +9,8 @@ profile:
   image: luisft.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>FEUP</p>
-    <p>Universidade do Porto</p>
+    <p>luisft@fe.up.pt</p>
+    <p>FEUP, Universidade do Porto</p>
 
 #news: true # includes a list of news items
 #latest_posts: true # includes a list of the newest posts
@@ -22,6 +22,4 @@ I am an Associate Professor at [DEI](https://dei.fe.up.pt/)/[FEUP](https://www.f
 
 My main research focus is on developing and applying computer vision and machine learning methodologies. I've worked in many domains including industry, autonomous vehicles, and medical imaging. More recently, I've focused in challenges related to interpretability and robustness.
 
-Before joining FEUP, I was working as a Senior Researcher at [Fraunhofer AICOS](). I completed my PhD in 2009
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining FEUP, I was a Senior Researcher at [Fraunhofer AICOS](https://www.aicos.fraunhofer.pt/), a Researcher at INESC Porto and a Visiting Researcher at [University of Victoria](https://www.uvic.ca/).
